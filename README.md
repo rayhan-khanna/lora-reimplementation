@@ -25,7 +25,7 @@ We use Huggingface Transformers with PyTorch to re-implement LoRA on RoBERTa-bas
 
 1. **Clone the repo**:
     ```bash
-    git clone https://github.com/tn292/cs5782_final_project
+    git clone https://github.com/rayhan-khanna/lora-reimplementation.git
     ```
 
 2. **Install dependencies**:
